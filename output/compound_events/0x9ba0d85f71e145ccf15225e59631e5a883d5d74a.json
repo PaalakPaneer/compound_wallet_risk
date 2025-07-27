@@ -1,0 +1,23 @@
+[
+  {
+    "tx_hash": "0xde0e149e8e6db3122712077bf4b9f0056d143c8c7995cc600394999259a17679",
+    "timestamp": "2025-07-04T02:25:11Z",
+    "event_name": "Borrow",
+    "contract": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "value_usd": 0.0,
+    "params": {
+      "borrower": "0x9ba0d85f71e145ccf15225e59631e5a883d5d74a",
+      "borrowAmount": "3364419259639349",
+      "accountBorrows": "3364419259639349",
+      "totalBorrows": "512939136552778463099"
+    }
+  },
+  {
+    "tx_hash": "0xe6f502af6c8e7729299773054f7e0c74e062d94294b88cf5befec502d6cfc309",
+    "timestamp": "2020-11-25T16:36:57Z",
+    "event_name": "Mint",
+    "contract": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "value_usd": 2.8835641835609063,
+    "params": {}
+  }
+]

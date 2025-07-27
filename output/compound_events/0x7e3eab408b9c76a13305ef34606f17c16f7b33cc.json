@@ -1,0 +1,30 @@
+[
+  {
+    "tx_hash": "0xecad0c9227ee3165f113fc8bd3ad5d037a7ef6d8bcb5e6d202c55a251ae90a6d",
+    "timestamp": "2020-05-08T00:36:25Z",
+    "event_name": "Redeem",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0x7e3eab408b9c76a13305ef34606f17c16f7b33cc",
+      "redeemAmount": "641243099282576195720",
+      "redeemTokens": "3134456728607"
+    }
+  },
+  {
+    "tx_hash": "0x10ca68b7c3fe266904d262c2ab20facb4f5bacb6c3c59b90aba08bf6dec07ffe",
+    "timestamp": "2020-01-30T19:53:43Z",
+    "event_name": "Mint",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x2198b481324790a1f82ca66bf1f013cd7915bd83008b783fe261eeec2b31285b",
+    "timestamp": "2020-01-30T19:24:16Z",
+    "event_name": "Mint",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {}
+  }
+]

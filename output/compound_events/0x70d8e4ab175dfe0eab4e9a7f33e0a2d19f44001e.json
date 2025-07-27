@@ -1,0 +1,205 @@
+[
+  {
+    "tx_hash": "0x17d67adc9145c46d07ee2295295bccac3cf5996d47546a8ec3044b81dd7750c6",
+    "timestamp": "2020-05-30T11:21:51Z",
+    "event_name": "Redeem",
+    "contract": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "redeemAmount": "182210103056990806603",
+      "redeemTokens": "900789561804"
+    }
+  },
+  {
+    "tx_hash": "0x12334f3cdb54f64f501437217fb7d91e2acb9b108590e08d1b042e42e4cd2348",
+    "timestamp": "2020-05-30T11:17:19Z",
+    "event_name": "Redeem",
+    "contract": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "redeemAmount": "11860382",
+      "redeemTokens": "56368036252"
+    }
+  },
+  {
+    "tx_hash": "0x3a92f60ebc6d5e64b412b50a6f3b2c8c84f0e515441183e4b24b53bd8f643681",
+    "timestamp": "2020-05-30T10:14:49Z",
+    "event_name": "Redeem",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "redeemAmount": "12125643608927255203",
+      "redeemTokens": "59239522417"
+    }
+  },
+  {
+    "tx_hash": "0x5ceb82a9dd1db521ed1f2e31ddf91f9be2043003b05f2e23d416bae8c988ac41",
+    "timestamp": "2020-05-29T02:25:57Z",
+    "event_name": "Redeem",
+    "contract": "0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "redeemAmount": "37335740246721439257",
+      "redeemTokens": "185781981459"
+    }
+  },
+  {
+    "tx_hash": "0x43eec1c3e264bcde2a54f3fbc75c533d3acb43f0f5c078b0b9ea8c23c166ecb9",
+    "timestamp": "2020-05-27T08:15:38Z",
+    "event_name": "RepayBorrow",
+    "contract": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "value_usd": 0.0,
+    "params": {
+      "payer": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "borrower": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "repayAmount": "20890000",
+      "accountBorrows": "8703",
+      "totalBorrows": "264670613187"
+    }
+  },
+  {
+    "tx_hash": "0x6507e6f8d1a5e2c26d7dae262cccb98f665d9373988b469bb030aafff5e73e30",
+    "timestamp": "2020-05-27T06:06:13Z",
+    "event_name": "Redeem",
+    "contract": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "redeemAmount": "992903938034212990",
+      "redeemTokens": "4961534756"
+    }
+  },
+  {
+    "tx_hash": "0xc9fca90345c816482292861cfa073931fbb8c452d0c578466fc96cc0109783b7",
+    "timestamp": "2020-05-27T06:03:07Z",
+    "event_name": "RepayBorrow",
+    "contract": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "value_usd": 0.0,
+    "params": {
+      "payer": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "borrower": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "repayAmount": "104587758",
+      "accountBorrows": "20898209",
+      "totalBorrows": "264685243823"
+    }
+  },
+  {
+    "tx_hash": "0x5c11177de06b63a88810f18b340ce9e7e9af6ab9cd90050ff67b2361d3e65c25",
+    "timestamp": "2020-05-27T04:38:26Z",
+    "event_name": "RepayBorrow",
+    "contract": "0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
+    "value_usd": 0.0,
+    "params": {
+      "payer": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "borrower": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "repayAmount": "360650514916880754",
+      "accountBorrows": "0",
+      "totalBorrows": "5235004635068679672096"
+    }
+  },
+  {
+    "tx_hash": "0x5582bb1a2a9695e38058a2e7771a4da61ea00b0c4065bfe4ece2d564c54508f0",
+    "timestamp": "2020-05-23T22:34:31Z",
+    "event_name": "Mint",
+    "contract": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0xad042cd46713deafdd11d3eb44ddb8b2fb2692eef421891cfe1cffa206d018ef",
+    "timestamp": "2020-05-17T10:52:13Z",
+    "event_name": "Mint",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 26.424512383528143,
+    "params": {}
+  },
+  {
+    "tx_hash": "0xb2213f36dab70ef21cea37e09664c559a7bcd206793eab67a37c20e7808df67e",
+    "timestamp": "2020-05-17T08:13:49Z",
+    "event_name": "Mint",
+    "contract": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+    "value_usd": 58.87881494438658,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x1441f8034ed0b62479e16134e57b46ae08571fb49b6fa3986fb507dbf8e677cc",
+    "timestamp": "2020-05-12T12:01:58Z",
+    "event_name": "RepayBorrow",
+    "contract": "0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
+    "value_usd": 0.0,
+    "params": {
+      "payer": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "borrower": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "repayAmount": "2052574803524472249",
+      "accountBorrows": "360218842301221109",
+      "totalBorrows": "15300915002341223182843"
+    }
+  },
+  {
+    "tx_hash": "0x58a3594393046289f8fb3ad852cee1c5d9667edeec0c3fe9223d20e967dbc1bc",
+    "timestamp": "2020-05-11T20:34:16Z",
+    "event_name": "Mint",
+    "contract": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0xb812331fb28ba20df927d75d3a07b8c29bf4458bf46ff7a04218200ca51fa616",
+    "timestamp": "2020-05-09T12:41:17Z",
+    "event_name": "Borrow",
+    "contract": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "value_usd": 0.0,
+    "params": {
+      "borrower": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "borrowAmount": "60000000",
+      "accountBorrows": "125000844",
+      "totalBorrows": "87826870506"
+    }
+  },
+  {
+    "tx_hash": "0xa1f560c67e3042b7ae88de6fec66c338ee165d847f8ac87615d36e7d48e7f40b",
+    "timestamp": "2020-05-09T12:37:19Z",
+    "event_name": "Mint",
+    "contract": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "value_usd": 99.64731231573131,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x0994c0aa5d5efa88be7439f7352b372ab4486d3c473f860cc4ded5cb341f15a5",
+    "timestamp": "2020-05-09T12:26:29Z",
+    "event_name": "Borrow",
+    "contract": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "value_usd": 0.0,
+    "params": {
+      "borrower": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "borrowAmount": "55000000",
+      "accountBorrows": "65000717",
+      "totalBorrows": "87766698861"
+    }
+  },
+  {
+    "tx_hash": "0x404a8e50ddc2bbc7bff6845ed2e0fe4045515df64384bd2c8a4bd4933dd57cdf",
+    "timestamp": "2020-05-09T12:13:11Z",
+    "event_name": "Mint",
+    "contract": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "value_usd": 109.13052351100349,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x7d5a0eb676cee02f84787dd9e9f3f83b8402b542c3b2c2c0e9738e5e1d856878",
+    "timestamp": "2020-05-09T03:49:27Z",
+    "event_name": "Borrow",
+    "contract": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "value_usd": 0.0,
+    "params": {
+      "borrower": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "borrowAmount": "10000000",
+      "accountBorrows": "10000000",
+      "totalBorrows": "87695404882"
+    }
+  }
+]

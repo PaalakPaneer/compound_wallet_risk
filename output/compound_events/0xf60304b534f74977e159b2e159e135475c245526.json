@@ -1,0 +1,498 @@
+[
+  {
+    "tx_hash": "0x92fb25d9c801a117d22faa15ddef79682561c7e0bde4b309874078d684528f8a",
+    "timestamp": "2020-03-21T15:53:16Z",
+    "event_name": "Redeem",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0x00000000001876eb1444c986fd502e618c587430",
+      "redeemAmount": "307000000000000000000",
+      "redeemTokens": "1505102206030"
+    }
+  },
+  {
+    "tx_hash": "0x92fb25d9c801a117d22faa15ddef79682561c7e0bde4b309874078d684528f8a",
+    "timestamp": "2020-03-21T15:53:16Z",
+    "event_name": "Redeem",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0xf60304b534f74977e159b2e159e135475c245526",
+      "redeemAmount": "307000000000000000000",
+      "redeemTokens": "30391219621"
+    }
+  },
+  {
+    "tx_hash": "0x83ddbf6fb07694b81bb415ee1d9623c4161f4a14db628c7a142907740c449dba",
+    "timestamp": "2020-03-21T14:54:41Z",
+    "event_name": "Mint",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x83ddbf6fb07694b81bb415ee1d9623c4161f4a14db628c7a142907740c449dba",
+    "timestamp": "2020-03-21T14:54:41Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x35bcb91c02dec68afb50ddf288cb2f7a91fd8a3b51754de6f60b0d97489957b9",
+    "timestamp": "2020-02-19T22:48:39Z",
+    "event_name": "Redeem",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0x00000000001876eb1444c986fd502e618c587430",
+      "redeemAmount": "3300190000000000000000",
+      "redeemTokens": "16306307735998"
+    }
+  },
+  {
+    "tx_hash": "0x35bcb91c02dec68afb50ddf288cb2f7a91fd8a3b51754de6f60b0d97489957b9",
+    "timestamp": "2020-02-19T22:48:39Z",
+    "event_name": "Redeem",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0xf60304b534f74977e159b2e159e135475c245526",
+      "redeemAmount": "3300190000000000000000",
+      "redeemTokens": "329002249016"
+    }
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x854ba92219e1b2d3c4e7cc77ae0152619862c1a050f14a2b7d395a7f4edca483",
+    "timestamp": "2020-02-19T22:24:03Z",
+    "event_name": "Mint",
+    "contract": "0x00000000001876eb1444c986fd502e618c587430",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x8a8f3d7af9bcb630961a695e2a9ee62d4955f17ee80b793497acfd30ddab70d5",
+    "timestamp": "2020-02-18T06:41:44Z",
+    "event_name": "Mint",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x46f84073017028d59ed61e2e0c99fe66d8b6947644310e052b9d89910488d410",
+    "timestamp": "2020-02-07T18:16:26Z",
+    "event_name": "Redeem",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0xf60304b534f74977e159b2e159e135475c245526",
+      "redeemAmount": "1041580000000000000000",
+      "redeemTokens": "5160152492699"
+    }
+  },
+  {
+    "tx_hash": "0x6dce73074228cf841cb7367b40ccf0c73ef985540e4beb2ac82b6e0df6bc149c",
+    "timestamp": "2020-02-07T13:35:18Z",
+    "event_name": "Mint",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x0ae3902676b1d9e4df48eb24b251be6c0fc7630df436d24fa542fd3c859d57c9",
+    "timestamp": "2020-02-07T10:58:58Z",
+    "event_name": "Redeem",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {
+      "redeemer": "0xf60304b534f74977e159b2e159e135475c245526",
+      "redeemAmount": "419770000000000000000",
+      "redeemTokens": "2079763152856"
+    }
+  },
+  {
+    "tx_hash": "0xdcb61c6b1150cbabf7fc75b0ca9218a227ec851c7f3b139360e86f79747822e3",
+    "timestamp": "2020-02-06T07:17:11Z",
+    "event_name": "Mint",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {}
+  },
+  {
+    "tx_hash": "0x89ba1f973f97ab62b3989d92f25cca1ef0b4723b1cc86d16c42f60fc31858a19",
+    "timestamp": "2020-02-06T07:11:32Z",
+    "event_name": "Mint",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "value_usd": 0.0,
+    "params": {}
+  }
+]

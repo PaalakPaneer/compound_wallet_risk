@@ -1,0 +1,23 @@
+[
+  {
+    "tx_hash": "0x35b52d29db0f121ef4af44d21a64774180e297a416ffbb1f11fe79cbe780af93",
+    "timestamp": "2024-08-09T07:14:11Z",
+    "event_name": "Withdraw",
+    "contract": "0xf047ab4c75cebf0eb9ed34ae2c186f3611aeafa6",
+    "value_usd": 0.0,
+    "params": {
+      "lastIdPayment": "281266",
+      "holder": "0x6a2752a534faacaaa153bffbb973dd84e0e5497b",
+      "tokenContract": "0x4d831e22f062b5327dfdb15f0b6a5df20e2e3dd0",
+      "amount": "296200000000000000"
+    }
+  },
+  {
+    "tx_hash": "0xe475415388e95e1c8e06257d7a143feaef862cf6c32244c99e61be473c445e87",
+    "timestamp": "2020-12-20T09:15:20Z",
+    "event_name": "Mint",
+    "contract": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "value_usd": 0.639761345422931,
+    "params": {}
+  }
+]

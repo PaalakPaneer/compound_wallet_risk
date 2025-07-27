@@ -1,0 +1,18 @@
+[
+  {
+    "tx_hash": "0x1f585c52878cdb3da41cf873459df5040a80ba68103d58775e1fffef9d80152a",
+    "timestamp": "2020-12-13T10:08:00Z",
+    "event_name": "Mint",
+    "contract": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "value_usd": 1.0071202984845682,
+    "params": {}
+  },
+  {
+    "tx_hash": "0xe588ff427518704b82e44bc3c278e366a8a989a563f9bc9c9b7dbe2e671ec771",
+    "timestamp": "2020-12-12T19:50:11Z",
+    "event_name": "Mint",
+    "contract": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "value_usd": 7.09911976672838,
+    "params": {}
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "tx_hash": "0x51803bacbfbf0a2d3b3b4d620fdba80142e172f5c87655be291f0ab7fe80f4da",
+    "timestamp": "2020-11-08T05:35:38Z",
+    "event_name": "Mint",
+    "contract": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+    "value_usd": 0.0,
+    "params": {}
+  }
+]

@@ -23,7 +23,6 @@ All wallet activities were pulled from Compound V2/V3 via The Graph or Covalent 
 
 A deterministic score is calculated using:
 
-```python
 score = (
     norm(repay_to_borrow) * 250 +
     norm(net_deposit_usd) * 200 +

@@ -13,18 +13,14 @@ Copy your API key (starts with ckey_)
 Open src/fetch_graph_data.py and replace this line:
 
 ```
-
 COVALENT_API_KEY = "your_api_key_here"
-
 ```
 
 # How to Run
 
 1. Install dependencies
 ```
-
 pip install requests pandas numpy
-
 ```
 
 2. Add wallet addresses
@@ -32,35 +28,27 @@ pip install requests pandas numpy
 Edit data/input_wallets.csv and add one wallet address per line:
 
 ```
-
 0xabc123...
 0xdef456...
-
 ```
 
 3. Fetch Compound activity
 
 ```
-
 python src/fetch_graph_data.py
-
 ```
 
 4. Score wallets
 ```
-
 python src/score_wallets.py
-
 ```
 
 This creates output/scores.csv with the following format:
 
 ```
-
 wallet_id,score
 0xabc123...,742
 0xdef456...,621
-
 ```
 
 # Additional Notes

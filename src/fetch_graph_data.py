@@ -2,8 +2,10 @@ import os
 import requests
 import json
 import time
+from dotenv import load_dotenv
+load_dotenv()
 
-COVALENT_API_KEY = "cqt_rQw7vfx9qdq6YcvcHgWYghrjQrWY"
+COVALENT_API_KEY = os.getenv("COVALENT_API_KEY")
 CHAIN_ID = "1"  # Ethereum mainnet
 INPUT_FILE = "data/input_wallets.csv"
 
